@@ -1,0 +1,193 @@
+body{
+    font-family:Verdana,Noto Sans;
+    background-color:#0B202F    ;
+}
+.title{
+    color:  #BA6746;
+
+
+}
+p{
+    color:#0B202F;
+    margin:0;
+}
+h2{
+    color:  #BA6746;:#566573
+    text-shadow:
+    -1px -1px  white,
+    1px -1px  white,
+    -1px 1px white,
+    1px 1px  white;
+}
+a {
+color:#0B202F;
+text-decoration: none;
+}
+a:hover
+{
+ color:white;
+ text-decoration:none;
+ cursor:pointer;
+}
+button:hover{
+    color:white;
+    cursor:hand;
+
+}
+img.resize {
+width:800px;
+height:200px;
+}
+#iconlca{
+    margin:0;
+    padding:0;
+}
+button{
+    background-color:transparent;
+    border:none ;
+    position:relevant;
+    color:#0B202F;
+    padding:0px 50px;
+    text-align:center;
+    display: inline-block;
+    font-size:25;
+    margin:none;
+    cursor:hand;
+    font-weight:bold;
+  
+  }
+  .container {
+    position: relative;
+    text-align: center;
+  }
+  #ESS {
+    position: absolute;
+    top: 12.5%;
+    left:50%;
+     width:100%;
+    font-size:2.0em;
+    text-align:center;
+    transform: translate(-50%, -50%);
+    color:#BA6746;
+    text-shadow:
+          0px 10px 0px black,
+          0px 10px 10px black,
+          0px 14px 2px black,
+          0px 20px 30px black;
+  }
+     
+  
+  hr{
+          border-color:#BA6746;
+  }
+  #verseimage{
+          border: solid 4px white;
+          clip: 0px 0px 0px 0px;
+          width:100%;
+          height:50%;
+          border-bottom:none;
+  }
+  #about{
+          width:500px;
+          height:200px;
+          position:relative;
+          border: solid 4px white;
+          margin:0;
+          float:left;
+          background-color:       #BA6746;
+          color:#0B202F;
+          }
+  #more{
+          width:500px;
+          height:200px;
+          text-align:center;
+          color:#0B202F;
+          font-size:25;
+          float:right;
+          position:relevant;
+          margin:0;
+          border: solid 4px white;
+          background-color:       #BA6746;
+  }
+  #video1{
+          margin:15;
+          padding:0;
+          position:relative;
+          float:left;
+          width:560;
+          height:315;
+          font-size:15;
+          border: solid 4px       #BA6746;
+  
+  }
+  #video2{
+          margin:15;
+          padding:0;
+          position:relevant;
+          float:right;
+          width:559;
+          height:315;
+          font-size:15;
+          border: solid 4px       #BA6746;
+          border: solid 4px       #BA6746;
+        }
+        #video3{
+                margin:15;
+                padding:0;
+                position:relevant;
+                float:left;
+                width:559;
+                height:315;
+                font-size:15;
+                border: solid 4px       #BA6746;
+        }
+        #buttons{
+                border: solid 4px white;
+                background-color:       #BA6746;
+                width:100%;
+                height:8%;
+        
+        }
+        #earth{
+                width:150px;
+                height:150px;
+                float:left;
+        
+            }
+            table {
+                        border: 1px solid white;
+                    color:white;
+                    background-color:#BA6746;
+                    margin:50;
+            }
+            td{
+            
+                    border:1px solid white;
+                    border-top:none;
+                    border-left:none;
+                    color:white;
+                    background-color:#BA6746;
+                    width:300px;
+                    height:100px;
+            }        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
